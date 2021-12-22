@@ -42,3 +42,8 @@ body
 {
     padding: 1em;
 }
+
+footer{
+   background: lightslategrey;
+   color: black;
+}
